@@ -43,12 +43,11 @@ Now the API is running at:
 ## Example Request
 To send a test request, use:
 
-```json
 {
   "features": [[0.1, -1.5, 2.3, 0.8, -0.6, 0.4, -2.1, 1.7, 0.3, -0.5, 
                 0.9, -1.2, 1.8, 0.2, -0.8, 0.5, -0.3, 0.7, -0.1, 2.0, 
                 -1.0, 1.5, 0.6, -1.7, 0.9, -0.4, 0.3, 0.1, -0.2, 0.5]]
-}```
+}
 
 ## Running Tests
 To run automated tests:
